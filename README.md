@@ -23,7 +23,7 @@ yarn rw dev
 
 # Funcionalidades implementadas
 
-Upload de arquivos: Os usuários podem selecionar e enviar arquivos, que são armazenados no Amazon S3.
+Upload de arquivos: Os usuários podem arrastar, selecionar e enviar arquivos, que são armazenados em um banco de dados local.
 Listagem de arquivos: Os arquivos enviados são listados na interface do usuário.
 Deleção de arquivos: Os usuários podem deletar arquivos listados.
 
